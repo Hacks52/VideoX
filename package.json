@@ -1,0 +1,20 @@
+{
+  "name": "youtube-video-player",
+  "version": "1.0.0",
+  "description": "Voice Activities for Discord (with Slash Commands)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "WeddedJester515",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord-slash-commands": "https://github.com/ShadeDevelopment/discord-slash-commands",
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
